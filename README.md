@@ -1,2 +1,4 @@
 # new-test-learning
-apenas para teste
+
+
+Estou utilizando este repositório para praticar e fazer alguns testes conforme vou aprendendo.
